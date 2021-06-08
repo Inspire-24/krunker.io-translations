@@ -549,14 +549,14 @@ windows.mods.community.header सामुदायिक मोड्स
 windows.mods.community.fav आपका पसंदीदा
 windows.mods.community.new नए मोड्स
 windows.mods.community.hot हॉट
-windows.mods.community.name मोड़ का नाम
-windows.mods.community.none मोड़ नहीं मिला
-windows.publish.mod.header मोड़ को प्रकाशित कीजिए
+windows.mods.community.name मॉड का नाम
+windows.mods.community.none मॉड नहीं मिला
+windows.publish.mod.header मॉड को प्रकाशित कीजिए
 windows.publish.mod.thumbnail नो थंबनेल
-windows.publish.mod.name मोड़ का नाम
-windows.publish.mod.paste मोड़ Url
+windows.publish.mod.name मॉड का नाम
+windows.publish.mod.paste मॉड Url
 windows.publish.mod.update प्रकाशित/अपडेट
-windows.publish.mod.login मोड़ बनाने और अपलोड करने के लिए!
+windows.publish.mod.login मॉड बनाने और अपलोड करने के लिए!
 windows.secondary.header सेकेंडरी चुने
 windows.secondary.unlocked उनलॉक्ड
 windows.secondary.req {0} पर अनलॉक हो जाता है
@@ -584,7 +584,7 @@ thumbnail.upload.error थंबनेल एरर
 mod.extracting extracting {0}/{1}
 mod.disabled मोड्स  डिसेबल्ड
 mod.error मोड़ एरर!
-mod.loading मोड़ लोड हो रहा हे ...
+mod.loading मॉड लोड हो रहा हे ...
 mod.invalid इनवैलिड मोड़ फाइल !
 matchmaker.full फूल
 matchmaker.full2 खेल भरा हुआ है .
